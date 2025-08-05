@@ -71,7 +71,7 @@ Run the SQL script to create the table and import data
 
 Execute analysis queries to generate insights
 
-👩‍💻 Author
+## 👩‍💻 Author
 Tanushree Yaltiwar
 🎓 B.Tech Student | Aspiring Data Analyst | SQL Enthusiast
 
