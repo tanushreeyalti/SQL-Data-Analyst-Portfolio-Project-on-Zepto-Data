@@ -56,4 +56,25 @@ CREATE TABLE zepto (
   outOfStock BOOLEAN,
   quantity INTEGER
 );
+🛠️ How to Use This Project
+Clone the repository:
+
+bash
+
+git clone https://github.com/tanushreeyalti/zepto-sql-data-analysis.git
+cd zepto-sql-data-analysis
+Open PostgreSQL (pgAdmin or CLI)
+
+Create a new database
+
+Run the SQL script to create the table and import data
+
+Execute analysis queries to generate insights
+
+👩‍💻 Author
+Tanushree Yaltiwar
+🎓 B.Tech Student | Aspiring Data Analyst | SQL Enthusiast
+
+💼 Passionate about Data Analytics, SQL, and Business Intelligence
+🌱 Currently learning real-world analytics & building portfolio projects
 
